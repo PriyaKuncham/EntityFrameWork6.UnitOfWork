@@ -1,0 +1,6 @@
+D:\Samples\Investigation\EFImplementation\EFImplementation\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+D:\Samples\Investigation\EFImplementation\EFImplementation\Repository\bin\Debug\netstandard2.0\Repository.dll
+D:\Samples\Investigation\EFImplementation\EFImplementation\Repository\obj\Debug\netstandard2.0\Repository.csprojResolveAssemblyReference.cache
+D:\Samples\Investigation\EFImplementation\EFImplementation\Repository\obj\Debug\netstandard2.0\Repository.csproj.CoreCompileInputs.cache
+D:\Samples\Investigation\EFImplementation\EFImplementation\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+D:\Samples\Investigation\EFImplementation\EFImplementation\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs

@@ -1,0 +1,10 @@
+D:\Samples\Investigation\EFImplementation\EFImplementation\EF.Repository\bin\Debug\EF.Repository.dll.config
+D:\Samples\Investigation\EFImplementation\EFImplementation\EF.Repository\bin\Debug\EF.Repository.dll
+D:\Samples\Investigation\EFImplementation\EFImplementation\EF.Repository\bin\Debug\EF.Repository.pdb
+D:\Samples\Investigation\EFImplementation\EFImplementation\EF.Repository\bin\Debug\EntityFramework.dll
+D:\Samples\Investigation\EFImplementation\EFImplementation\EF.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Samples\Investigation\EFImplementation\EFImplementation\EF.Repository\bin\Debug\EntityFramework.xml
+D:\Samples\Investigation\EFImplementation\EFImplementation\EF.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Samples\Investigation\EFImplementation\EFImplementation\EF.Repository\obj\Debug\EF.Repository.csproj.CoreCompileInputs.cache
+D:\Samples\Investigation\EFImplementation\EFImplementation\EF.Repository\obj\Debug\EF.Repository.dll
+D:\Samples\Investigation\EFImplementation\EFImplementation\EF.Repository\obj\Debug\EF.Repository.pdb
